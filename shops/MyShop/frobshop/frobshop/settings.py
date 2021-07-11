@@ -1,4 +1,4 @@
-#ssgyyuu
+#ssgyyuusss
 from oscar.defaults import *
 import os
  
