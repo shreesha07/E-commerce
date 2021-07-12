@@ -125,7 +125,7 @@ DATABASES = {
        'NAME': 'MyShop',
        'USER':'postgres',
        'PASSWORD':'postgres',
-       'HOST':'localhost',
+       'HOST':'database-1.csynptb3cl9x.us-east-2.rds.amazonaws.com',
        'PORT':'5432'    
    }
 }
