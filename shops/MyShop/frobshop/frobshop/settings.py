@@ -121,7 +121,7 @@ WSGI_APPLICATION = 'frobshop.wsgi.application'
  
 DATABASES = {
    'default': {
-       'ENGINE': 'django.db.backends.sqlite3',
+       'ENGINE': 'django.db.backends.postgresql',
        'NAME': 'MyShop',
        'USER':'postgres',
        'PASSWORD':'postgres',
